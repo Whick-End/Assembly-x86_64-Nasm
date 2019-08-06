@@ -2,6 +2,8 @@
 ; to try the table and the system
 ;In nasm 64 bits
 
+BITS 64
+
 section .bss
    newLine resb 1
 
