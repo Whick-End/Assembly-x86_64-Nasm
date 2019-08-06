@@ -1,3 +1,7 @@
+;strlen function - calculate the length of a string
+
+BITS 64
+
 global my_strlen
 
 section .text
